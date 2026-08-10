@@ -48,7 +48,7 @@ The model learns the relationship between years of experience and salary and use
 salary-prediction-linear-regression/
 │
 |__.gitignore
-├── Model.ipynb
+├── model.ipynb
 ├── Salary_dataset.csv
 ├── README.md
 ├── requirements.txt
